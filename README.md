@@ -17,7 +17,7 @@
 - **IOS - Operating systems**
   - [Project 1](https://github.com/H0CK3Y03/IOS-project1)
   - [Project 2](In progress)
-- **IJC - C Language seminar**
+- **IJC - C language seminar**
   - [Project 1](https://github.com/H0CK3Y03/IJC-project1)
   - [Project 2](https://github.com/H0CK3Y03/IJC-project2)
 - **IVS - Practical aspects of software development**
