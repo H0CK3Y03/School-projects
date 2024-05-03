@@ -16,7 +16,7 @@
   - [Project](https://github.com/H0CK3Y03/INC-project)
 - **IOS - Operating systems**
   - [Project 1](https://github.com/H0CK3Y03/IOS-project1)
-  - [Project 2](In progress)
+  - [Project 2](https://github.com/H0CK3Y03/IOS-project2)
 - **IJC - C language seminar**
   - [Project 1](https://github.com/H0CK3Y03/IJC-project1)
   - [Project 2](https://github.com/H0CK3Y03/IJC-project2)
