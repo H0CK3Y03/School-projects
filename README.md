@@ -25,5 +25,14 @@
   
 ## 2. year of school
 
+### Winter semester
+
+- **IAL - Algorithms**
+  - [Project 1](placeholder)
+- **IFJ - Formal languages and compilers**
+  - [Project 1](placeholder)
+- **INP - Design of computer systems**
+  - [Project 1](placeholder)
+
 ## Winter semester
 -Almost there :)
