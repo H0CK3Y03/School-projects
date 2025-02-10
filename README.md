@@ -8,7 +8,7 @@
   - [Palindrome checker](https://github.com/H0CK3Y03/isc-palindrome)
 - **IZP - Basics of programming**
   - [Keyfilter](https://github.com/H0CK3Y03/IZP-keyfilter)
-  - [Project 2](https://github.com/H0CK3Y03/IZP-project2)
+  - [Maze solver](https://github.com/H0CK3Y03/IZP-maze)
 
 ### Summer semester
 
