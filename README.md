@@ -30,7 +30,7 @@
 - **IAL - Algorithms**
   - [Project 1](placeholder)
 - **IFJ - Formal languages and compilers**
-  - [Team project](https://github.com/H0CK3Y03/ifj)
+  - [Team project](https://github.com/H0CK3Y03/ifj-team-project-zig-compiler)
 - **INP - Design of computer systems**
   - [Project 1](placeholder)
 
