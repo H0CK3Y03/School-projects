@@ -30,7 +30,7 @@
 - **IAL - Algorithms**
   - [Project 1](placeholder)
 - **IFJ - Formal languages and compilers**
-  - [Project 1](placeholder)
+  - [Team project](https://github.com/H0CK3Y03/ifj)
 - **INP - Design of computer systems**
   - [Project 1](placeholder)
 
