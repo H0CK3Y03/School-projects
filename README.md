@@ -7,7 +7,7 @@
 - **ISC - Computer seminar**
   - [Palindrome checker](https://github.com/H0CK3Y03/isc-palindrome)
 - **IZP - Basics of programming**
-  - [Project 1](https://github.com/H0CK3Y03/IZP-project1)
+  - [Keyfilter](https://github.com/H0CK3Y03/IZP-keyfilter)
   - [Project 2](https://github.com/H0CK3Y03/IZP-project2)
 
 ### Summer semester
