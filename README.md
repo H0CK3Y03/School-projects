@@ -13,7 +13,7 @@
 ### Summer semester
 
 - **INC - Design of numerical systems**
-  - [Project](https://github.com/H0CK3Y03/INC-project)
+  - [RTL circuit](https://github.com/H0CK3Y03/INC-rtl)
 - **IOS - Operating systems**
   - [Project 1](https://github.com/H0CK3Y03/IOS-project1)
   - [Project 2](https://github.com/H0CK3Y03/IOS-project2)
