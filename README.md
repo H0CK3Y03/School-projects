@@ -34,5 +34,5 @@
 - **INP - Design of computer systems**
   - [Project 1](placeholder)
 
-## Winter semester
+### Summer semester
 -Almost there :)
