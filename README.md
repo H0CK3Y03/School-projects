@@ -15,8 +15,8 @@
 - **INC - Design of numerical systems**
   - [RTL circuit](https://github.com/H0CK3Y03/INC-rtl)
 - **IOS - Operating systems**
-  - [Transaction fetcher](https://github.com/H0CK3Y03/IOS-project1)
-  - [Project 2](https://github.com/H0CK3Y03/IOS-project2)
+  - [Transaction fetcher](https://github.com/H0CK3Y03/IOS-fetcher)
+  - [Project 2](https://github.com/H0CK3Y03/IOS-scheduler)
 - **IJC - C language seminar**
   - [Project 1](https://github.com/H0CK3Y03/IJC-project1)
   - [Project 2](https://github.com/H0CK3Y03/IJC-project2)
